@@ -30,7 +30,8 @@
     "react-lazy-load-image-component": "^1.6.0",
     "react-spinners": "^0.13.8",
     "sharp": "^0.32.4",
-    "underscore-observe": "^1.0.0"
+    "underscore-observe": "^1.0.0",
+    "vercel": "^28.18.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
