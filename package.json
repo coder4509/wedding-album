@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "proxy": "https://my-wedding-album.vercel.app",
+  "proxy": "https://wedding-album-v1.vercel.app",
   "scripts": {
     "start": "vite",
     "build": "vite build",
